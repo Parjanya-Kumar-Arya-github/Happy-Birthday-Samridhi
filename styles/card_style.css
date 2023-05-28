@@ -504,18 +504,21 @@ footer {
 
 @media (max-width:450px) {
     #card-inside {
-        font-size: 0.95em;
+        line-height: 130%;
+        font-size: 0.9em;
     }
 }
 
 @media (max-width:400px) {
     #card-inside {
-        font-size: 0.9em;
+        font-size: 0.85em;
+        line-height: 130%;
     }
 }
 
 @media (max-width:350px) {
     #card-inside {
-        font-size: 0.85em;
+        line-height: 130%;
+        font-size: 0.8em;
     }
 }
